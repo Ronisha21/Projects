@@ -1,4 +1,4 @@
-# Projects
+# Healthy Eating Website
 This project is a webpage I created using CSS, HTML, and JavaScript following the 
 '2020 Frontend Developer Crash Course for Absolute Beginners' by the DesignCourse 
 on YouTube. Through the project I learned about numerous HTML and CSS properties 
